@@ -1,17 +1,13 @@
-
-
 ---
 
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=SALIPE&theme=dracula&hide_border=true&short_numbers=true&card_height=200&hide_longest_streak=true" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/SALIPE/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=SALIPE&theme=dracula&hide_border=true&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
+###
 
-</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SALIPE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SALIPE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="center">
 <a href="www.linkedin.com/in/salipe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
