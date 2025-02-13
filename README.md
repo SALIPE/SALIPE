@@ -1,10 +1,10 @@
 <p align="center">
-<img src="./moon.gif" width="600" height="300" />
+<img src="./moon.gif" width="700" height="300" />
 </p>
 
 ##  About Me
-- Master Student in Informatics at ESTIG-IPB(EScola SUperior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
-- Bacharel in Computer Engineering
+- Master Student in Informatics at ESTIG-IPB (Escola Superior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
+- Bacharel in Computer Engineering at UTFPR (Universidade  Tecnológica Federal do Paraná)
 - Dedicated to always improving my research and knowledge in Machine Learning, Data Science, DevOps and everything about computing
 
 ---
