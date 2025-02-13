@@ -1,6 +1,7 @@
-<center>
+<p align="center">
 <img src="./moon.gif" width="600" height="300" />
-</center>
+</p>
+
 ##  About Me
 - Master Student in Informatics at ESTIG-IPB(EScola SUperior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
 - Bacharel in Computer Engineering
