@@ -1,3 +1,11 @@
+<center>
+<img src="./moon.gif" width="600" height="300" />
+</center>
+##  About Me
+- Master Student in Informatics at ESTIG-IPB(EScola SUperior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
+- Bacharel in Computer Engineering
+- Dedicated to always improving my research and knowledge in Machine Learning, Data Science, DevOps and everything about computing
+
 ---
 
 <p align="center">
