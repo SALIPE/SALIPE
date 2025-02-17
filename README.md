@@ -6,6 +6,18 @@
 - Bacharel in Computer Engineering
 - Dedicated to always improving my research and knowledge in Machine Learning, Data Science, DevOps and everything about computing
 
+## Projects
+### Researchs
+- [Resonant Recognition Model as a Preprocessing Technique for RNA Classification - ARTIIS (Applied Research in Technological Innovation and Sustainability)](https://github.com/SALIPE/RRM-PLEK-APPLICATION)
+
+### Machine Learning
+- [CNN- Deep Learning Classifier for COVID Detection](https://github.com/SALIPE/si-covid-deep-learning-classifier)
+- [Face Expression Detection](https://github.com/SALIPE/Face-Expression-Detection)
+
+### DevOps and System Architecture
+- [Terraform and Ansible to Create an Secure Self-Host Cloud Infrastructure](https://github.com/jgmsilva/SSI-cloud-project)
+- [Kubernets Microservices for File Processing](https://github.com/SALIPE/k8s-file-process)
+- [Lending System for Stores Management using Docker and Microservice](https://github.com/SALIPE/nerdlend-lending-system)
 ---
 
 <p align="center">
