@@ -3,7 +3,7 @@
 </p>
 
 ##  About Me
-- Master Student in Informatics at ESTIG-IPB (Escola Superior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
+- Master in Informatics at ESTIG-IPB (Escola Superior de Tecnologia e Gestão - Instituto Politécnico de Bragança)
 - Bacharel in Computer Engineering at UTFPR (Universidade  Tecnológica Federal do Paraná)
 - Dedicated to always improving my research and knowledge in Machine Learning, Data Science, DevOps and everything about computing
 
